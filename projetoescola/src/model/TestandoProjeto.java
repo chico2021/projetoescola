@@ -6,6 +6,7 @@ public class TestandoProjeto {
 		// TODO Auto-generated method stub
 
 		System.out.println("alteração1");
+		System.out.println("alteração2");
 	}
 
 }
